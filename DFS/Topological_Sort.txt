@@ -1,0 +1,5 @@
+***  Topological sorting is known as  Directed Acyclic Graph (DAG ::
+it is a special type of graphs in which each edge is directed such that 
+--->>> no cycle exists in the graph) 
+and
+It is returns an array of the nodes where each node appears before all the nodes it points to.
