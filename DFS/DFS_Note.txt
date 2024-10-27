@@ -1,0 +1,26 @@
+It is a recursive algorithms.
+*** Search all the vertices of a Tree or a Graph
+
+***Implementation 
+1) Topological Sorting
+2)Find the paths between and two vertices
+3)Detect Cycles
+4)Graphs is Bipartite or not ??
+
+***pseudo code
+
+DFS(Graph , Vertices)
+          Stack S = {}
+          for each vertex u , set visited[u] = 0
+          push S,Vertices;
+          While (S is not empty)
+              Do
+              u := pop S
+          If( ! visited[u])
+          Then
+          visited[u] := 1
+          for each unvisited neighbour w of u
+            push S,w;
+      end if
+   end while
+end DFS()
