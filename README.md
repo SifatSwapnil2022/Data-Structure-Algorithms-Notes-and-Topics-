@@ -1,2 +1,2 @@
 # Data-Structure-Algorithms-Notes-and-Topics-
-My preparation for DS(CSE207) and Algorithms(CSE246) course  and practicing more for learning. I will be noted down the topic in here.
+"I am preparing for the Data Structures (CSE 207) and Algorithms (CSE 246) courses, and I am practicing more to enhance my understanding. I will note down the topics here."
