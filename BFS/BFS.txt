@@ -14,3 +14,7 @@ In Ford-Fulkerson algorithm to find maximum flow in a network.
 Cycle detection in an undirected graph.
 
 In minimum spanning tree.
+
+The time complexity of the BFS algorithm is  O(V + E), where V is the number of nodes and E is the number of edges.
+
+The space complexity of the algorithm is O(V).
