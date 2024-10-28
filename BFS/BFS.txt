@@ -1,1 +1,16 @@
+BFS algorithm is a graph transversal algorithm.
+Breadth First Traversal or Breadth First Search is a recursive algorithm for searching all the vertices of a graph or tree data structure.
+It makes use of a queue data structure with FIFO (first in, first out) ordering. 
 
+Applications:
+To build index by search index.
+
+For GPS navigation.
+
+Path finding algorithms.
+
+In Ford-Fulkerson algorithm to find maximum flow in a network.
+
+Cycle detection in an undirected graph.
+
+In minimum spanning tree.
