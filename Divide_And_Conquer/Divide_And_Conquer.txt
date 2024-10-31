@@ -1,1 +1,15 @@
+Strategy of solving a big problem by
+-- breaking the problem into smaller sub problems
+-- solving the sub problems also
+-- combining all to get desire output 
+
+******* It can not restore the sub problems result********
+
+example : 
+Divide and Conquer approach
+fibonacci(n)
+  If n < 2 ; return 1
+  Else,
+  return fibonacci(n-1)+f(n-2)
+
 
